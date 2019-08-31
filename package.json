@@ -37,7 +37,7 @@
     "debug": "^2.2.0",
     "ejs": "^2.4.1",
     "express": "^4.13.4",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.15",
     "mongodb": "^2.2.24",
     "mongoose": "^4.8.3",
     "morgan": "^1.7.0",
@@ -50,7 +50,7 @@
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.10.0",
+    "@angular-devkit/build-angular": "^0.803.2",
     "@angular/cli": "~7.0.2",
     "@angular/compiler-cli": "~7.0.0",
     "@angular/language-service": "~7.0.0",
@@ -59,7 +59,7 @@
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
     "codelyzer": "~4.5.0",
-    "cypress": "3.2.0",
+    "cypress": "^3.4.1",
     "jasmine-core": "~2.99.1",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~3.0.0",
